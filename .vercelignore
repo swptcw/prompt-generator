@@ -1,0 +1,2 @@
+# Ignore the app directory - we're using Pages Router
+app/
